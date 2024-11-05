@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+}
+.Background {
+	display: flex;
+	flex-direction: column;
+}
+
+.Background .blueBg {
+	background-color: #1f2937;
+	height: 500px;
+}
+
+.Background .whiteBg {
+	background-color: white;
+	height: 100px;
+}
+
+.Background .grayBg {
+	background-color: #e5e7eb;
+	height: 100px;
+}
+
+#Logo {
+	font-family: roboto;
+}
